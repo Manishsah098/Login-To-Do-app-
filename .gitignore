@@ -1,0 +1,35 @@
+# Gradle files and cache
+.gradle/
+build/
+app/build/
+
+# Local configuration files
+local.properties
+
+# Android Studio/IntelliJ files
+.idea/
+*.iml
+*.ipr
+*.iws
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Output files
+*.apk
+*.aar
+*.ap_
+*.dex
+*.class
+
+# Log files and crash reports
+*.log
+crashlytics/
+
+# System specific files
+.DS_Store
+Thumbs.db
+
+# Virtual Device files
+*.hprof

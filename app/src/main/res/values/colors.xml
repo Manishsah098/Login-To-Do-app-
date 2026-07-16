@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Premium Dark Theme Palette -->
+    <color name="primary">#6C3DE0</color>
+    <color name="primary_variant">#5227B3</color>
+    <color name="accent">#00D9C0</color>
+    <color name="background">#121214</color>
+    <color name="surface">#1A1A1E</color>
+    
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8A8A93</color>
+    <color name="divider">#2A2A30</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+    
+    <color name="status_completed">#4CAF50</color>
+    <color name="status_pending">#FFC107</color>
+    <color name="error">#FF3B30</color>
+</resources>

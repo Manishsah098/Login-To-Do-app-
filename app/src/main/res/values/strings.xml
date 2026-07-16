@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Secure Tasks</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Log in to manage your tasks securely</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="name_hint">Full Name</string>
+    <string name="login_btn">Log In</string>
+    <string name="register_link">Don\'t have an account? Sign Up</string>
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Register to start organizing your life</string>
+    <string name="register_btn">Register</string>
+    <string name="login_link">Already have an account? Log In</string>
+    <string name="tasks_title">My Tasks</string>
+    <string name="logout_tooltip">Log Out</string>
+    <string name="add_task_dialog_title">Create Task</string>
+    <string name="task_name_hint">What needs to be done?</string>
+    <string name="task_notes_hint">Notes (Optional)</string>
+    <string name="add_btn">Add</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="empty_title">All clear!</string>
+    <string name="empty_subtitle">You don\'t have any tasks. Tap + to add one.</string>
+</resources>

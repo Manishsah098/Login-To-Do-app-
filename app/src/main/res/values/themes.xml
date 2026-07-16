@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.ToDoApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
+    </style>
+</resources>
